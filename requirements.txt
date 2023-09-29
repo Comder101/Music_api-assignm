@@ -16,7 +16,7 @@ certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==3.0.1
 colorama==0.4.6
-comm==0.1.2
+
 contourpy==1.0.7
 cycler==0.11.0
 debugpy==1.6.6
